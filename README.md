@@ -10,16 +10,12 @@ Final Project: AEM 3103 Spring 2024
 | Initial Velocity (m/s) | 1.55        | 3.55          | 11.05       |
 | Initial Flight Path Angle (rad) | -0.68 | -0.18         | 0.22        |
 
-In this project, I conducted an experiment on the flight dynamics of a paper airplane with varying parameters. The varying parameters include differences in initial velocity and differences in the flight path angle of the paper plane. From the simulations, we observed the following:
-
-1. Increasing the initial velocity resulted in longer range flights.
-2. Higher flight path angles led to steeper descent trajectories.
-3. The Monte Carlo simulation revealed a wide range of possible trajectories due to parameter variations.
+In this project, I experimented with the flight dynamics of a paper airplane with varying parameters. The varying parameters include differences in initial velocity and differences in the flight path angle of the paper plane. From my calculations, I can state that an increase in the initial velocity resulted in longer-range flights, higher flight path angles led to steeper descent trajectories, and that the Monte Carlo simulation was able to demonstrate a wide range of possible trajectories due to parameter variations and limits.
 
 # Code Listing
 
 - [EqMotion.m](EqMotion.m): MATLAB script containing the equations of motion for the aircraft.
-  - This script calculates the derivatives of the state variables based on the current state and global aerodynamic parameters.
+  - This script calculates the first-order time derivatives of the state variables, which describe the motion of the aircraft over time.
 
 # Figures
 
