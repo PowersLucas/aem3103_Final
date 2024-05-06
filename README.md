@@ -16,7 +16,7 @@ In this project, I experimented with the flight dynamics of a paper airplane wit
 
 - [EqMotion.m](EqMotion.m)
   - This script calculates the first-order time derivatives of the state variables, which describe the motion of the aircraft over time.
--[
+-[paper_plane.m](paper_plane.m)
 # Figures
 
 ## Fig. 1: Single Parameter Variation
