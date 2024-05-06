@@ -10,7 +10,7 @@ Final Project: AEM 3103 Spring 2024
 | Initial Velocity (m/s) | 1.55        | 3.55          | 11.05       |
 | Initial Flight Path Angle (rad) | -0.68 | -0.18         | 0.22        |
 
-In this study, we conducted a numerical investigation into the flight dynamics of a paper airplane. We explored the impact of variations in initial velocity and flight path angle on the trajectory of the paper airplane. From the simulations, we observed the following:
+In this project, I conducted an experiment on the flight dynamics of a paper airplane with varying parameters. The varying parameters include differences in initial velocity and differences in the flight path angle of the paper plane. From the simulations, we observed the following:
 
 1. Increasing the initial velocity resulted in longer range flights.
 2. Higher flight path angles led to steeper descent trajectories.
