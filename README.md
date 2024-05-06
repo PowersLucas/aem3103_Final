@@ -14,9 +14,9 @@ In this project, I experimented with the flight dynamics of a paper airplane wit
 
 # Code Listing
 
-- [EqMotion.m](EqMotion.m): MATLAB script containing the equations of motion for the aircraft.
+- [EqMotion.m](EqMotion.m)
   - This script calculates the first-order time derivatives of the state variables, which describe the motion of the aircraft over time.
-
+-[
 # Figures
 
 ## Fig. 1: Single Parameter Variation
