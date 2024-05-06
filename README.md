@@ -18,7 +18,7 @@ In this project, I experimented with the flight dynamics of a paper airplane wit
   - This function calculates the first-order time derivatives of the state variables, which describe the motion of the aircraft over time.
 
 - [paper_plane.m](paper_plane.m)
-  - This script declares the global variables of the paper plane and analyze its behavior with varying parameters. 
+  - This script declares the global variables of the paper plane and analyzes its behavior with varying parameters. 
 # Figures
 
 ## Fig. 1: Single Parameter Variation
