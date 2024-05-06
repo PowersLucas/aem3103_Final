@@ -24,16 +24,16 @@ In this project, I experimented with the flight dynamics of a paper airplane wit
 ## Fig. 1: Single Parameter Variation
 ![Single Parameter Variation](single_parameter_variation.png)
 
-This figure shows the 2D trajectory simulated by varying a single parameter at a time. The nominal trajectory is also displayed for reference.
+This figure shows the 2D trajectory simulated by varying a single parameter at a time. The nominal trajectory is displayed with the black line anything lower than the nominal is red and anything higher is green.
 
 ## Fig. 2: Monte Carlo Simulation
 ![Monte Carlo Simulation](monte_carlo_simulation.png)
 
-This figure displays the 2D trajectories simulated using random sampling of parameters. Polynomial fits are overlaid onto the plot to show the average trajectory.
+This figure displays the 2D trajectories simulated using 100 random sampling of parameters. The bottom graph displays a polynomial fit that is overlaid onto the plot to show the average trajectory out of the random 100 samples.
 
 ## Fig. 3: Time Derivatives
 ![Time Derivatives](time_derivatives.png)
 
 This figure shows the time-derivative of height and range for the fitted trajectory. It provides insight into the rate of change of these parameters over time.
 
-  Briefly describe what is being shown in the figure.
+  
