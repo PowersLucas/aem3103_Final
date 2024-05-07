@@ -24,16 +24,16 @@ In this project, I experimented with the flight dynamics of a paper airplane wit
 ## Fig. 1: Single Parameter Variation
 ![Single Parameter Variation](single_parameter_variation.png)
 
-This figure shows the 2D trajectory simulated by varying a single parameter at a time. It is based upon a nominal trajectory and other trajectories that are higher and lower than the nominal. The nominal trajectory is displayed in black, the lower nominal trajectory is red and the higher nominal trajectory is green.
+This figure illustrates how varying a single parameter affects the nominal flight trajectory of the paper airplane. The plots show the trajectory in the height vs. range space, with each line representing a different parameter variation scenario. For example, when varying the initial velocity, higher velocities result in longer ranges and higher altitudes due to increased kinetic energy. Conversely, lower velocities lead to shorter ranges and lower altitudes. Similarly, varying the flight path angle alters the trajectory's steepness, with higher angles resulting in steeper descents and lower angles leading to shallower descents. The nominal trajectory is displayed in black, the lower nominal trajectory is red and the higher nominal trajectory is green.
 
 ## Fig. 2: Monte Carlo Simulation
 ![Monte Carlo Simulation](monte_carlo_simulation.png)
 
-This figure displays the 2D trajectories simulated using 100 random samples of parameters. The bottom graph displays a polynomial fit that is plotted to show the average trajectory out of the random 100 samples.
+In this figure, the results of a Monte Carlo simulation are presented, showcasing the variability in paper airplane trajectories under 100 random parameter variations. Each line represents a trajectory obtained from a different combination of randomly sampled parameters. The spread of trajectories demonstrates the potential range of flight paths achievable under random parameters. The second graph demonstrates the average of all of the 100 random trajectories.
 
 ## Fig. 3: Time Derivatives
 ![Time Derivatives](time_derivatives.png)
 
-This figure shows the time-derivative of height and range for the fitted trajectory. It provides insight into the rate of change of these parameters over time.
+This figure displays the time derivatives of height and range for the average trajectory obtained from the Monte Carlo simulation. The curves represent the rates of change of height and range over time, providing insights into the paper airplane's ascent and descent dynamics. Key points on the curves, such as the peaks or valleys, correspond to major events during the flight, such as maximum altitude, and minimum altitude. 
 
   
