@@ -29,7 +29,7 @@ This figure shows the 2D trajectory simulated by varying a single parameter at a
 ## Fig. 2: Monte Carlo Simulation
 ![Monte Carlo Simulation](monte_carlo_simulation.png)
 
-This figure displays the 2D trajectories simulated using 100 random sampling of parameters. The bottom graph displays a polynomial fit that is overlaid onto the plot to show the average trajectory out of the random 100 samples.
+This figure displays the 2D trajectories simulated using 100 random samples of parameters. The bottom graph displays a polynomial fit that is ploted to show the average trajectory out of the random 100 samples.
 
 ## Fig. 3: Time Derivatives
 ![Time Derivatives](time_derivatives.png)
